@@ -29,7 +29,6 @@
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
         <img src="https://media.licdn.com/dms/image/C4E1BAQHjdgsazjDDWg/company-background_10000/0/1585179410477/senati_peru_cover?e=2147483647&v=beta&t=-NV8JF-UP1ri0L4d9L97CBnXkskRd1NE8-soLANkG6k" height="90" style="border-radius: 50%;" alt="Ec.png"/><br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Flag_of_Peru_%281825%E2%80%931884%29.svg/270px-Flag_of_Peru_%281825%E2%80%931884%29.svg.png" height="20" alt="Pe.png"/><br>
         <strong>Senati</strong><br><strong>Cursando</strong><br>
