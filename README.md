@@ -35,13 +35,6 @@
         <strong>Senati</strong><br><strong>Cursando</strong><br>
         <img src="https://progress-bar.dev/67/" width="105" alt="progress-bar"/>
       </td>
-      <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tcDNRzxAnPYTBkEoT0ribhH4A2rvdmzu6Q&s" width="90" alt="TEC.png"/><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Flag_of_Peru_%281825%E2%80%931884%29.svg/270px-Flag_of_Peru_%281825%E2%80%931884%29.svg.png" height="20" alt="Pe.png"/><br>
-        <strong>SISE</strong><br><strong>Cursando</strong><br>
-        <img src="https://progress-bar.dev/20/" width="100" alt="progress-bar"/>
-      </td>
     </tr>
   </table>
 </div>
